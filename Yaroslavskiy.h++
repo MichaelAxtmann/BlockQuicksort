@@ -2,7 +2,7 @@
 * Code due to Vladimir Yaroslavskiy
 * Retrieved from http://codeblab.com/wp-content/uploads/2009/09/DualPivotQuicksort.pdf
 * Converted to C++ by Armin Weiß <armin.weiss@fmi.uni-stuttgart.de>
-* Converted to sort inputs larger than 2^32 by Michael Axtmann <michael.axtmann@kit.edu>
+* Converted to sort inputs larger than 2^32 by Michael Axtmann <michael.axtmann@gmail.com>
 */
 
 #include <iterator>
